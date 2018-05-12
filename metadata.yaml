@@ -1,0 +1,33 @@
+_repo: Three-Things_25215
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25215-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Glyn, Elinor
+    alias: Glyn, Elinor Sutherland
+    birthdate: 1864
+    deathdate: 1943
+    gutenberg_agent_id: '1762'
+    url: http://www.gutenberg.org/2009/agents/1762
+    wikipedia: http://en.wikipedia.org/wiki/Elinor_Glyn
+description: ''
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage'
+- !lcsh 'Conduct of life'
+- !lcsh 'Family'
+tableOfContents: The old order changeth -- The gospel of common sense -- Marriage
+  -- After marriage -- Should divorce be made easier? -- The responsibility of motherhood
+  -- The responsibility of motherhood, second paper.
+title: Three Things
+url: http://www.gutenberg.org/ebooks/25215
